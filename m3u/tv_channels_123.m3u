@@ -1,21 +1,21 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="BBC One" tvg-logo="http://4u2stream.com/gallery/BBC%201%20CI.png" tvg-name="UK : BBC1"  group-title="03. UK ENTERTAINMENT",UK : BBC1
+#EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%201%20CI.png" tvg-name="UK : BBC 1"  group-title="03. UK ENTERTAINMENT",UK : BBC 1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/152.ts
 
 #EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%20ONE%20HD.png" tvg-name="VIP : BBC HD 1"  group-title="03. UK ENTERTAINMENT",VIP : BBC HD 1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/148.ts
 
-#EXTINF:0, tvg-id="BBC Two" tvg-logo="http://4u2stream.com/gallery/BBC%202%20England.png" tvg-name="UK : BBC2"  group-title="03. UK ENTERTAINMENT",UK : BBC2
+#EXTINF:0, tvg-id="BBC Two" tvg-logo="http://4u2stream.com/gallery/BBC%202%20England.png" tvg-name="UK : BBC 2"  group-title="03. UK ENTERTAINMENT",UK : BBC 2
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/153.ts
 
 #EXTINF:0, tvg-id="BBC Two HD" tvg-logo="http://4u2stream.com/gallery/BBC%20TWO%20HD.png" tvg-name="VIP : BBC HD 2"  group-title="03. UK ENTERTAINMENT",VIP : BBC HD 2
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/149.ts
 
-#EXTINF:0, tvg-id="ITV" tvg-logo="http://4u2stream.com/gallery/ITV.png" tvg-name="UK : ITV1"  group-title="03. UK ENTERTAINMENT",UK : ITV1
+#EXTINF:0, tvg-id="ITV HD" tvg-logo="http://4u2stream.com/gallery/ITV.png" tvg-name="UK : ITV 1"  group-title="03. UK ENTERTAINMENT",UK : ITV 1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/167.ts
 
-#EXTINF:0, tvg-id="ITV HD" tvg-logo="http://4u2stream.com/gallery/ITV%20HD.png" tvg-name="VIP : ITV HD 1"  group-title="03. UK ENTERTAINMENT",VIP : ITV HD 1
+#EXTINF:0, tvg-id="ITV HD" tvg-logo="http://4u2stream.com/gallery/ITV%20HD.png" tvg-name="VIP : ITV 1 HD"  group-title="03. UK ENTERTAINMENT",VIP : ITV 1 HD
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/160.ts
 
 #EXTINF:0, tvg-id="Channel 4" tvg-logo="http://4u2stream.com/gallery/121.png" tvg-name="UK : CHANNEL 4"  group-title="03. UK ENTERTAINMENT",UK : CHANNEL 4
