@@ -1,0 +1,8 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%201%20CI.png" tvg-name="UK : BBC1"  group-title="03. UK ENTERTAINMENT",UK : BBC1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/152.ts
+
+#EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%20ONE%20HD.png" tvg-name="VIP : BBC HD 1"  group-title="03. UK ENTERTAINMENT",VIP : BBC HD 1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/148.ts
+
