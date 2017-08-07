@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%201%20CI.png" tvg-name="UK : BBC1"  group-title="UK ENTERTAINMENT",UK : BBC1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/152.ts
+#EXTINF:0, tvg-id="BBC One HD" tvg-logo="http://4u2stream.com/gallery/BBC%20ONE%20HD.png" tvg-name="VIP : BBC HD 1"  group-title="UK ENTERTAINMENT",VIP : BBC HD 1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/148.ts
+#EXTINF:0, tvg-id="BBC Two HD" tvg-logo="http://4u2stream.com/gallery/BBC%202%20England.png" tvg-name="UK : BBC2"  group-title="UK ENTERTAINMENT",UK : BBC2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/153.ts
+#EXTINF:0, tvg-id="BBC Two HD" tvg-logo="http://4u2stream.com/gallery/BBC%20TWO%20HD.png" tvg-name="VIP : BBC HD 2"  group-title="UK ENTERTAINMENT",VIP : BBC HD 2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/149.ts
+#EXTINF:0, tvg-id="ITV" tvg-logo="http://4u2stream.com/gallery/ITV.png" tvg-name="UK : ITV1"  group-title="UK ENTERTAINMENT",UK : ITV1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/167.ts
+#EXTINF:0, tvg-id="ITV HD" tvg-logo="http://4u2stream.com/gallery/ITV%20HD.png" tvg-name="UK : ITV1HD"  group-title="UK ENTERTAINMENT",UK : ITV1HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/161.ts
+#EXTINF:0, tvg-id="Channel 4 HD" tvg-logo="http://4u2stream.com/gallery/121.png" tvg-name="UK : CHANNEL 4"  group-title="UK ENTERTAINMENT",UK : CHANNEL 4
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/269.ts
+#EXTINF:0, tvg-id="Channel 4 HD" tvg-logo="http://4u2stream.com/gallery/121.png" tvg-name="UK : Channel 4 HD"  group-title="UK ENTERTAINMENT",UK : Channel 4 HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/31533.ts
+#EXTINF:0, tvg-id="Channel 5" tvg-logo="http://4u2stream.com/gallery/148.png" tvg-name="UK : Channel 5"  group-title="UK ENTERTAINMENT",UK : Channel 5
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/268.ts
+#EXTINF:0, tvg-id="Channel 5HD" tvg-logo="http://4u2stream.com/gallery/Channel%205%20HD.png" tvg-name="VIP : Channel 5 HD"  group-title="UK ENTERTAINMENT",VIP : Channel 5 HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/174.ts
+#EXTINF:0, tvg-id="CBBC HD" tvg-logo="http://4u2stream.com/gallery/BBC%20THREE.png" tvg-name="UK : BBC3"  group-title="UK ENTERTAINMENT",UK : BBC3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/154.ts
+#EXTINF:0, tvg-id="BBC Four HD" tvg-logo="http://4u2stream.com/gallery/BBC%20FOUR.png" tvg-name="UK : BBC4"  group-title="UK ENTERTAINMENT",UK : BBC4
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/155.ts
+#EXTINF:0, tvg-id="CBBC HD" tvg-logo="http://4u2stream.com/gallery/bbc3.png" tvg-name="VIP : BBC HD 3 / CBBC HD"  group-title="UK - KIDS",VIP : BBC HD 3 / CBBC HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/56.ts
+#EXTINF:0, tvg-id="BBC Four HD" tvg-logo="http://4u2stream.com/gallery/bbc4.png" tvg-name="VIP : BBC HD 4 / CBEEBIES HD"  group-title="UK - KIDS",VIP : BBC HD 4 / CBEEBIES HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/57.ts
+#EXTINF:0, tvg-id="ITV2" tvg-logo="http://4u2stream.com/gallery/ITV2.png" tvg-name="UK : ITV2"  group-title="UK ENTERTAINMENT",UK : ITV2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/168.ts
+#EXTINF:0, tvg-id="ITV3" tvg-logo="http://4u2stream.com/gallery/ITV3.png" tvg-name="UK : ITV3"  group-title="UK ENTERTAINMENT",UK : ITV3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/169.ts
+#EXTINF:0, tvg-id="ITV4" tvg-logo="http://4u2stream.com/gallery/ITV4.png" tvg-name="UK : ITV4"  group-title="UK ENTERTAINMENT",UK : ITV4
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/170.ts
+#EXTINF:0, tvg-id="ITVBe" tvg-logo="http://4u2stream.com/gallery/itvbe.jpg" tvg-name="UK : ITV BE"  group-title="UK ENTERTAINMENT",UK : ITV BE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/171.ts
+#EXTINF:0, tvg-id="ITVBe" tvg-logo="http://4u2stream.com/gallery/itvbe.jpg" tvg-name="VIP : ITV BE HD"  group-title="UK ENTERTAINMENT",VIP : ITV BE HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/166.ts
+#EXTINF:0, tvg-id="ITV Encore HD" tvg-logo="http://4u2stream.com/gallery/ITV_Encore_3D.png" tvg-name="VIP : ITV ENCORE HD"  group-title="UK ENTERTAINMENT",VIP : ITV ENCORE HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/165.ts
+#EXTINF:0, tvg-id="ITV2 HD" tvg-logo="http://4u2stream.com/gallery/ITV2%20HD.png" tvg-name="VIP : ITV HD 2"  group-title="UK ENTERTAINMENT",VIP : ITV HD 2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/162.ts
+#EXTINF:0, tvg-id="ITV3 HD" tvg-logo="http://4u2stream.com/gallery/ITV3%20HD.png" tvg-name="VIP : ITV HD 3"  group-title="UK ENTERTAINMENT",VIP : ITV HD 3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/163.ts
+#EXTINF:0, tvg-id="ITV4 HD" tvg-logo="http://4u2stream.com/gallery/ITV4%20HD.png" tvg-name="VIP : ITV HD 4"  group-title="UK ENTERTAINMENT",VIP : ITV HD 4
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/164.ts
+#EXTINF:0, tvg-id="Sky1" tvg-logo="http://4u2stream.com/gallery/sky%201.jpg" tvg-name="UK : SKY ONE"  group-title="UK ENTERTAINMENT",UK : SKY ONE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/249.ts
+#EXTINF:0, tvg-id="Sky1 HD" tvg-logo="http://4u2stream.com/gallery/sky%201.jpg" tvg-name="VIP : SKY 1 HD"  group-title="UK ENTERTAINMENT",VIP : SKY 1 HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/225.ts
+#EXTINF:0, tvg-id="Sky2" tvg-logo="http://4u2stream.com/gallery/sky2.jpg" tvg-name="UK : SKY TWO"  group-title="UK ENTERTAINMENT",UK : SKY TWO
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/248.ts
+#EXTINF:0, tvg-id="Sky Arts" tvg-logo="http://4u2stream.com/gallery/Sky%20Arts%201%20.png" tvg-name="UK : SKY ARTS 1"  group-title="UK ENTERTAINMENT",UK : SKY ARTS 1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/252.ts
+#EXTINF:0, tvg-id="Sky Arts HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Arts%201%20HD.png" tvg-name="VIP : SKY ARTS HD"  group-title="UK ENTERTAINMENT",VIP : SKY ARTS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/224.ts
+#EXTINF:0, tvg-id="Sky Living" tvg-logo="http://4u2stream.com/gallery/Sky%20Living.png" tvg-name="UK : SKY LIVING"  group-title="UK ENTERTAINMENT",UK : SKY LIVING
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/250.ts
+#EXTINF:0, tvg-id="Sky Living HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Living%20HD.png" tvg-name="VIP : SKY LIVING HD"  group-title="UK ENTERTAINMENT",VIP : SKY LIVING HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/223.ts
+#EXTINF:0, tvg-id="Sky Action HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Action%20HD.png" tvg-name="SKY CINEMA ACTION HD"  group-title="UK MOVIES",SKY CINEMA ACTION HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/277.ts
+#EXTINF:0, tvg-id="Sky Comedy HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Comedy%20HD.png" tvg-name="SKY MOVIES COMEDY HD"  group-title="UK MOVIES",SKY MOVIES COMEDY HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/278.ts
+#EXTINF:0, tvg-id="Sky Disney HD" tvg-logo="http://4u2stream.com/gallery/disneysky.png" tvg-name="SKY MOVIES DISNEY HD"  group-title="UK MOVIES",SKY MOVIES DISNEY HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/279.ts
+#EXTINF:0, tvg-id="SkyDramaRom" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Drama%20%26%20Romance%20HD.png" tvg-name="SKY MOVIES DRAMAROMANCE HD"  group-title="UK MOVIES",SKY MOVIES DRAMAROMANCE HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/280.ts
+#EXTINF:0, tvg-id="Sky Family HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Family%20HD.png" tvg-name="SKY MOVIES FAMILY HD"  group-title="UK MOVIES",SKY MOVIES FAMILY HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/281.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Modern%20Greats%20HD.png" tvg-name="SKY MOVIES HERO HD"  group-title="UK MOVIES",SKY MOVIES HERO HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/282.ts
+#EXTINF:0, tvg-id="SkyPremiereHD" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Premier%20HD.png" tvg-name="SKY MOVIES PREMIER HD"  group-title="UK MOVIES",SKY MOVIES PREMIER HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/283.ts
+#EXTINF:0, tvg-id="Sky ScFi/Horror" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Sci-Fi%20%26%20Horror%20HD.png" tvg-name="SKY MOVIES SCI-FI/HORROR HD"  group-title="UK MOVIES",SKY MOVIES SCI-FI/HORROR HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/284.ts
+#EXTINF:0, tvg-id="Sky Select HD" tvg-logo="http://4u2stream.com/gallery/sky_uk_movies_select_hd.png" tvg-name="SKY MOVIES SELECT HD"  group-title="UK MOVIES",SKY MOVIES SELECT HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/285.ts
+#EXTINF:0, tvg-id="Sky Thriller HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Crime%20%26%20Thriller%20HD.png" tvg-name="SKY MOVIES THRILLER HD"  group-title="UK MOVIES",SKY MOVIES THRILLER HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/287.ts
+#EXTINF:0, tvg-id="Movies 24" tvg-logo="http://4u2stream.com/gallery/Movies%2024.png" tvg-name="UK : MOVIES 24"  group-title="UK MOVIES",UK : MOVIES 24
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/288.ts
+#EXTINF:0, tvg-id="movies4men" tvg-logo="http://4u2stream.com/gallery/movies4men.png" tvg-name="UK : MOVIES 4 MEN"  group-title="UK MOVIES",UK : MOVIES 4 MEN
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/289.ts
+#EXTINF:0, tvg-id="Sky Disney" tvg-logo="http://4u2stream.com/gallery/disneysky.png" tvg-name="UK : SKY DISNEY"  group-title="UK MOVIES",UK : SKY DISNEY
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/218.ts
+#EXTINF:0, tvg-id="Sky Family" tvg-logo="http://4u2stream.com/gallery/Sky%20Family.png" tvg-name="UK : SKY FAMILY"  group-title="UK MOVIES",UK : SKY FAMILY
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/217.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://4u2stream.com/gallery/Sky%20Mdn%20Greats.png" tvg-name="UK : SKY MODERN GREATS"  group-title="UK MOVIES",UK : SKY MODERN GREATS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/216.ts
+#EXTINF:0, tvg-id="SkyDramaRom" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Drama%20%26%20Romance.png" tvg-name="UK : SKY MOVIES DRAMA"  group-title="UK MOVIES",UK : SKY MOVIES DRAMA
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/215.ts
+#EXTINF:0, tvg-id="Sky Premiere" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Premier.png" tvg-name="UK : SKY MOVIES PREMIER"  group-title="UK MOVIES",UK : SKY MOVIES PREMIER
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/213.ts
+#EXTINF:0, tvg-id="Sky ScFi/Horror" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Sci-Fi%20%26%20Horror.png" tvg-name="UK : SKY MOVIES SCI-FI - HORROR"  group-title="UK MOVIES",UK : SKY MOVIES SCI-FI - HORROR
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/212.ts
+#EXTINF:0, tvg-id="Sky Select" tvg-logo="http://4u2stream.com/gallery/sel.png" tvg-name="UK : SKY SELECT"  group-title="UK MOVIES",UK : SKY SELECT
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/211.ts
+#EXTINF:0, tvg-id="Showcase" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Showcase.png" tvg-name="UK : SKY SHOWCASE"  group-title="UK MOVIES",UK : SKY SHOWCASE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/210.ts
+#EXTINF:0, tvg-id="Sony Movies" tvg-logo="http://4u2stream.com/gallery/Sony%20Movies.png" tvg-name="UK : SONY MOVIES"  group-title="UK MOVIES",UK : SONY MOVIES
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/290.ts
+#EXTINF:0, tvg-id="True Movies 1" tvg-logo="http://4u2stream.com/gallery/True%20Movies%201.png" tvg-name="UK : TRUE MOVIES"  group-title="UK MOVIES",UK : TRUE MOVIES
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/201.ts
+#EXTINF:0, tvg-id="True Movies 2" tvg-logo="http://4u2stream.com/gallery/True%20Movies%202.png" tvg-name="UK : TRUE MOVIES 2"  group-title="UK MOVIES",UK : TRUE MOVIES 2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/200.ts
+#EXTINF:0, tvg-id="Film4 HD" tvg-logo="http://4u2stream.com/gallery/Film4%20HD.png" tvg-name="VIP : FILM 4 HD"  group-title="UK MOVIES",VIP : FILM 4 HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/229.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SKY MOVIES HITS HD"  group-title="UK MOVIES",SKY MOVIES HITS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/953.ts
+#EXTINF:0, tvg-id="Boomerang" tvg-logo="http://4u2stream.com/gallery/Boomerang.png" tvg-name="UK : BOOMERANG"  group-title="UK - KIDS",UK : BOOMERANG
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/53.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://4u2stream.com/gallery/Boomerang.png" tvg-name="Boomerang"  group-title="UK - KIDS",Boomerang
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/41.ts
+#EXTINF:0, tvg-id="Cartoonito" tvg-logo="http://4u2stream.com/gallery/cartonito.jpg" tvg-name="UK  : CARTONITO  ( NOT 24H )"  group-title="UK - KIDS",UK  : CARTONITO  ( NOT 24H )
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/52.ts
+#EXTINF:0, tvg-id="BabyTV" tvg-logo="http://4u2stream.com/gallery/BabyTV.png" tvg-name="UK : BABY TV"  group-title="UK - KIDS",UK : BABY TV
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/51.ts
+#EXTINF:0, tvg-id="Cartoon Netwrk" tvg-logo="http://4u2stream.com/gallery/Cartoon%20Netwrk.png" tvg-name="UK : CARTOON NETWORK"  group-title="UK - KIDS",UK : CARTOON NETWORK
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/40.ts
+#EXTINF:0, tvg-id="Disney Chnl" tvg-logo="http://4u2stream.com/gallery/Disney%20Chnl.png" tvg-name="UK : DISNEY CHANNEL"  group-title="UK - KIDS",UK : DISNEY CHANNEL
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/50.ts
+#EXTINF:0, tvg-id="Disney Junior" tvg-logo="http://4u2stream.com/gallery/Disney%20Junior.png" tvg-name="UK : DISNEY JUNIOR"  group-title="UK - KIDS",UK : DISNEY JUNIOR
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/49.ts
+#EXTINF:0, tvg-id="Disney XD" tvg-logo="http://4u2stream.com/gallery/Disney%20XD.png" tvg-name="UK : DISNEY XD"  group-title="UK - KIDS",UK : DISNEY XD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/48.ts
+#EXTINF:0, tvg-id="Kix" tvg-logo="http://4u2stream.com/gallery/Kix!.png" tvg-name="UK : KIX"  group-title="UK - KIDS",UK : KIX
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/38.ts
+#EXTINF:0, tvg-id="Nick Jr Too" tvg-logo="http://4u2stream.com/gallery/Nick%20Jr.%202.png" tvg-name="UK : NICK JR TOO"  group-title="UK - KIDS",UK : NICK JR TOO
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/47.ts
+#EXTINF:0, tvg-id="Nick Jr." tvg-logo="http://4u2stream.com/gallery/Nick%20Jr..png" tvg-name="UK : NICK JUNIOR"  group-title="UK - KIDS",UK : NICK JUNIOR
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/46.ts
+#EXTINF:0, tvg-id="Nicktoons" tvg-logo="http://4u2stream.com/gallery/Nicktoons.png" tvg-name="UK : NICK TOONS"  group-title="UK - KIDS",UK : NICK TOONS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/45.ts
+#EXTINF:0, tvg-id="Nickelodeon" tvg-logo="http://4u2stream.com/gallery/Nickelodeon.png" tvg-name="UK : NICKELODEON EUROPE"  group-title="UK - KIDS",UK : NICKELODEON EUROPE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/43.ts
+#EXTINF:0, tvg-id="POP" tvg-logo="http://4u2stream.com/gallery/POP.png" tvg-name="UK : POP"  group-title="UK - KIDS",UK : POP
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/39.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://4u2stream.com/gallery/rtejun.jpg" tvg-name="UK : RTE JUNIOR"  group-title="UK - KIDS",UK : RTE JUNIOR
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/54.ts
+#EXTINF:0, tvg-id="Tiny Pop" tvg-logo="http://4u2stream.com/gallery/Tiny%20POP.png" tvg-name="UK : TINY POP"  group-title="UK - KIDS",UK : TINY POP
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/44.ts
+#EXTINF:0, tvg-id="CBBC HD" tvg-logo="http://4u2stream.com/gallery/bbc3.png" tvg-name="VIP : BBC CBBC HD"  group-title="UK - KIDS",VIP : BBC CBBC HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/55.ts
+#EXTINF:0, tvg-id="CBBC HD" tvg-logo="http://4u2stream.com/gallery/bbc3.png" tvg-name="VIP : BBC HD 3 / CBBC HD"  group-title="UK - KIDS",VIP : BBC HD 3 / CBBC HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/56.ts
+#EXTINF:0, tvg-id="BBC Four HD" tvg-logo="http://4u2stream.com/gallery/bbc4.png" tvg-name="VIP : BBC HD 4 / CBEEBIES HD"  group-title="UK - KIDS",VIP : BBC HD 4 / CBEEBIES HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/57.ts
+#EXTINF:0, tvg-id="Cartoon Netwrk" tvg-logo="http://4u2stream.com/gallery/Cartoon%20Net%20HD.png" tvg-name="VIP : CARTOON NETWORK HD"  group-title="UK - KIDS",VIP : CARTOON NETWORK HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/42.ts
+#EXTINF:0, tvg-id="NickelodeonHD" tvg-logo="http://4u2stream.com/gallery/Nickelodeon.png" tvg-name="VIP : NICK HD"  group-title="UK - KIDS",VIP : NICK HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/37.ts
+#EXTINF:0, tvg-id="MTV BASE" tvg-logo="Logo N/A" tvg-name="MTV Base HD"  group-title="UK -MUSIC",MTV Base HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/309.ts
+#EXTINF:0, tvg-id="MTV DANCE" tvg-logo="http://4u2stream.com/gallery/MTV%20Dance.png" tvg-name="MTV Dance HD"  group-title="UK -MUSIC",MTV Dance HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/310.ts
+#EXTINF:0, tvg-id="MTV HITS" tvg-logo="http://4u2stream.com/gallery/MTV%20Hits.png" tvg-name="MTV Hits HD"  group-title="UK -MUSIC",MTV Hits HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/311.ts
+#EXTINF:0, tvg-id="MTV ROCKS" tvg-logo="http://4u2stream.com/gallery/MTV%20Rocks.png" tvg-name="MTV Rocks HD"  group-title="UK -MUSIC",MTV Rocks HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/312.ts
+#EXTINF:0, tvg-id="Chart Show TV" tvg-logo="http://4u2stream.com/gallery/Chart%20Show%20TV.png" tvg-name="UK : CHART SHOW DANCE"  group-title="UK -MUSIC",UK : CHART SHOW DANCE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/301.ts
+#EXTINF:0, tvg-id="Flava" tvg-logo="http://4u2stream.com/gallery/Flava.png" tvg-name="UK : FLAVA"  group-title="UK -MUSIC",UK : FLAVA
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/187.ts
+#EXTINF:0, tvg-id="MTV BASE" tvg-logo="http://4u2stream.com/gallery/MTV%20Base.png" tvg-name="UK : MTV BASE"  group-title="UK -MUSIC",UK : MTV BASE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/302.ts
+#EXTINF:0, tvg-id="MTV CLASSIC" tvg-logo="http://4u2stream.com/gallery/MTV%20Classic.png" tvg-name="UK : MTV CLASSIC"  group-title="UK -MUSIC",UK : MTV CLASSIC
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/303.ts
+#EXTINF:0, tvg-id="MTV DANCE" tvg-logo="http://4u2stream.com/gallery/MTV%20Dance.png" tvg-name="UK : MTV DANCE"  group-title="UK -MUSIC",UK : MTV DANCE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/304.ts
+#EXTINF:0, tvg-id="MTV HITS" tvg-logo="http://4u2stream.com/gallery/MTV%20Hits.png" tvg-name="UK : MTV HITS"  group-title="UK -MUSIC",UK : MTV HITS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/306.ts
+#EXTINF:0, tvg-id="MTV MUSIC" tvg-logo="http://4u2stream.com/gallery/MTV%20MUSIC.png" tvg-name="UK : MTV MUSIC UK"  group-title="UK -MUSIC",UK : MTV MUSIC UK
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/308.ts
+#EXTINF:0, tvg-id="MTV" tvg-logo="http://4u2stream.com/gallery/MTV.png" tvg-name="UK : MTV ONE"  group-title="UK -MUSIC",UK : MTV ONE
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/307.ts
+#EXTINF:0, tvg-id="MTV ROCKS" tvg-logo="http://4u2stream.com/gallery/MTV%20Rocks.png" tvg-name="UK : MTV ROCKS"  group-title="UK -MUSIC",UK : MTV ROCKS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/305.ts
+#EXTINF:0, tvg-id="VH1" tvg-logo="http://4u2stream.com/gallery/VH1.png" tvg-name="UK : VH1"  group-title="UK -MUSIC",UK : VH1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/237.ts
+#EXTINF:0, tvg-id="MTV" tvg-logo="http://4u2stream.com/gallery/MTV%20HD.png" tvg-name="VIP : MTV HD"  group-title="UK -MUSIC",VIP : MTV HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/391.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://4u2stream.com/gallery/MTV%20Live.png" tvg-name="VIP : MTV LIVE HD"  group-title="UK -MUSIC",VIP : MTV LIVE HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/390.ts
+#EXTINF:0, tvg-id="Al Jazeera Eng" tvg-logo="http://4u2stream.com/gallery/Al%20Jazeera%20Eng.png" tvg-name="UK : AL JAZEERA"  group-title="NEWS",UK : AL JAZEERA
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/36.ts
+#EXTINF:0, tvg-id="BBC NEWS" tvg-logo="http://4u2stream.com/gallery/BBC%20News.png" tvg-name="UK : BBC News"  group-title="NEWS",UK : BBC News
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/28.ts
+#EXTINF:0, tvg-id="Bloomberg" tvg-logo="http://4u2stream.com/gallery/Bloomberg.png" tvg-name="UK : Bloomberg"  group-title="NEWS",UK : Bloomberg
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/35.ts
+#EXTINF:0, tvg-id="CNBC" tvg-logo="http://4u2stream.com/gallery/CNBC.png" tvg-name="UK : CNBC"  group-title="NEWS",UK : CNBC
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34.ts
+#EXTINF:0, tvg-id="CNN" tvg-logo="http://4u2stream.com/gallery/CNN.png" tvg-name="UK : CNN"  group-title="NEWS",UK : CNN
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/32.ts
+#EXTINF:0, tvg-id="FOX News" tvg-logo="http://4u2stream.com/gallery/FOX%20News.png" tvg-name="UK : FOX NEWS"  group-title="NEWS",UK : FOX NEWS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/31.ts
+#EXTINF:0, tvg-id="RTÉ News Now" tvg-logo="http://4u2stream.com/gallery/rtenews.png" tvg-name="UK : RTE NEWS"  group-title="NEWS",UK : RTE NEWS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/33.ts
+#EXTINF:0, tvg-id="Sky News" tvg-logo="http://4u2stream.com/gallery/Sky%20News.png" tvg-name="UK : SKY NEWS"  group-title="NEWS",UK : SKY NEWS
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/30.ts
+#EXTINF:0, tvg-id="BBC NEWS HD" tvg-logo="http://4u2stream.com/gallery/BBC%20News.png" tvg-name="VIP : BBC NEWS HD"  group-title="NEWS",VIP : BBC NEWS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/27.ts
+#EXTINF:0, tvg-id="Sky News HD" tvg-logo="http://4u2stream.com/gallery/Sky%20News%20HD.png" tvg-name="VIP : SKY NEWS HD"  group-title="NEWS",VIP : SKY NEWS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/29.ts
+#EXTINF:0, tvg-id="RTÉ News Now" tvg-logo="http://4u2stream.com/gallery/rtenews.png" tvg-name="RTE News"  group-title="NEWS",RTE News
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/147.ts
+#EXTINF:0, tvg-id="FOX News" tvg-logo="http://4u2stream.com/gallery/FOX%20News.png" tvg-name="FOX NEWS HD"  group-title="NEWS",FOX NEWS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/18524.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-name="Euronews"  group-title="NEWS",Euronews
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/24566.ts
