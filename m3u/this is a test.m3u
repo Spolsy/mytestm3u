@@ -279,6 +279,8 @@ http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/9115.ts
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/94.ts
 #EXTINF:0, tvg-id="Sky Sports 4 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%204%20HD.png" tvg-name="UK : SKY SPORTS THE OPEN HD"  group-title="SPORTS",UK : SKY SPORTS THE OPEN HD
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/86.ts
+#EXTINF:0, tvg-id="Sky Sports 4 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%204%20HD.png" tvg-name="UK : SKY SPORTS FHD THE OPEN"  group-title="SPORTS",UK : SKY SPORTS FHD THE OPEN
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/9116.ts
 #EXTINF:0, tvg-id="Sky Spts F1 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%20F1.png" tvg-name="UK : SKY SPORTS F1"  group-title="SPORTS",UK : SKY SPORTS F1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/96.ts
 #EXTINF:0, tvg-id="Sky Spts F1 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20F1%20HD.png" tvg-name="UK : SKY SPORTS F1 HD"  group-title="SPORTS",UK : SKY SPORTS F1 HD
@@ -287,16 +289,38 @@ http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/89.ts
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/9118.ts
 #EXTINF:0, tvg-id="Sky Sports 2 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%202%20HD.png" tvg-name="UK : SKY SPORTS FHD CRICKET"  group-title="SPORTS",UK : SKY SPORTS FHD CRICKET
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/9114.ts
-#EXTINF:0, tvg-id="Sky Sports 4 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%204%20HD.png" tvg-name="UK : SKY SPORTS FHD THE OPEN"  group-title="SPORTS",UK : SKY SPORTS FHD THE OPEN
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/9116.ts
 #EXTINF:0, tvg-id="Sky Sp NewsHQ" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20News.png" tvg-name="UK : SKY SPORTS NEWS"  group-title="SPORTS",UK : SKY SPORTS NEWS
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/97.ts
+#EXTINF:0, tvg-id="Sky Sp NewsHQ" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20News.png" tvg-name="SKY SPORTS NEWS HD"  group-title="SPORTS",SKY SPORTS NEWS HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/90.ts
 #EXTINF:0, tvg-id="BT Sport 1" tvg-logo="http://plextratime.com/Channel/bt_sport_1.png" tvg-name="UK : BT SPORTS 1"  group-title="SPORTS",UK : BT SPORTS 1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/105.ts
+#EXTINF:0, tvg-id="BT Sport 1 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-13.png" tvg-name="BT SPORTS HD1"  group-title="SPORTS",BT SPORTS HD1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/98.ts
+#EXTINF:0, tvg-id="BT Sport 1 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-13.png" tvg-name="UK : BT SPORTS FHD 1"  group-title="SPORTS",UK : BT SPORTS FHD 1
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34488.ts
 #EXTINF:0, tvg-id="BT Sport 2" tvg-logo="http://plextratime.com/Channel/bt-sport-23.png" tvg-name="UK : BT SPORTS 2"  group-title="SPORTS",UK : BT SPORTS 2
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34841.ts
-#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://4u2stream.com/gallery/bt3.png" tvg-name="UK: BT SPORT 3"  group-title="SPORTS",UK: BT SPORT 3
+#EXTINF:0, tvg-id="BT Sport 2 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-23.png" tvg-name="BT SPORTS HD2"  group-title="SPORTS",BT SPORTS HD2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/99.ts
+#EXTINF:0, tvg-id="BT Sport 2 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-23.png" tvg-name="UK : BT SPORTS FHD 2"  group-title="SPORTS",UK : BT SPORTS FHD 2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34489.ts
+#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://4u2stream.com/gallery/bt3.png" tvg-name="UK : BT SPORTS 3"  group-title="SPORTS",UK : BT SPORTS 3
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/107.ts
+#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://plextratime.com/Channel/bt-sport-32.png" tvg-name="BT SPORTS HD3"  group-title="SPORTS",BT SPORTS HD3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/100.ts
+#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://plextratime.com/Channel/bt-sport-32.png" tvg-name="UK : BT SPORTS FHD 3"  group-title="SPORTS",UK : BT SPORTS FHD 3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34490.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA"  group-title="SPORTS",BT SPORTS EXTRA
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/109.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 2"  group-title="SPORTS",BT SPORTS EXTRA 2
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/110.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 3"  group-title="SPORTS",BT SPORTS EXTRA 3
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/111.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 4"  group-title="SPORTS",BT SPORTS EXTRA 4
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/112.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 5"  group-title="SPORTS",BT SPORTS EXTRA 5
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/113.ts
 #EXTINF:0, tvg-id="MUTV HD" tvg-logo="http://4u2stream.com/gallery/MUTV.png" tvg-name="UK : M.U.T.V"  group-title="SPORTS",UK : M.U.T.V
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34249.ts
 #EXTINF:0, tvg-id="Eurosport 1 HD" tvg-logo="http://4u2stream.com/gallery/Eurosport%20HD.png" tvg-name="EUROSPORTS HD"  group-title="SPORTS",EUROSPORTS HD
@@ -307,10 +331,10 @@ http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/120.ts
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/123.ts
 #EXTINF:0, tvg-id="Premier Sports" tvg-logo="http://4u2stream.com/gallery/Premier%20Sports.png" tvg-name="PREMIER SPORTS HD"  group-title="SPORTS",PREMIER SPORTS HD
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/114.ts
-#EXTINF:0, tvg-id="Racing UK HD" tvg-logo="http://4u2stream.com/gallery/Racing%20UK.png" tvg-name="RACING UK HD"  group-title="SPORTS",RACING UK HD
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/129.ts
 #EXTINF:0, tvg-id="At The Races" tvg-logo="http://4u2stream.com/gallery/attheraces.jpg" tvg-name="UK : AT THE RACES"  group-title="SPORTS",UK : AT THE RACES
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/131.ts
+#EXTINF:0, tvg-id="Racing UK HD" tvg-logo="http://4u2stream.com/gallery/Racing%20UK.png" tvg-name="RACING UK HD"  group-title="SPORTS",RACING UK HD
+http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/129.ts
 #EXTINF:0, tvg-id="BoxNation" tvg-logo="http://4u2stream.com/gallery/BoxNation.png" tvg-name="UK : BOXNATION"  group-title="SPORTS",UK : BOXNATION
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/128.ts
 #EXTINF:0, tvg-id="Setanta Ireland" tvg-logo="http://4u2stream.com/gallery/EIR-1.jpg" tvg-name="UK : EIR SPORTS 1 ( NEW )"  group-title="SPORTS",UK : EIR SPORTS 1 ( NEW )
@@ -339,36 +363,6 @@ http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/29661.ts
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34248.ts
 #EXTINF:0, tvg-id="BTSpt//ESPNHD" tvg-logo="http://plextratime.com/Channel/bt_sport_uk_espn.png" tvg-name="BT SPORTS ESPN HD"  group-title="SPORTS",BT SPORTS ESPN HD
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/101.ts
-#EXTINF:0, tvg-id="BT Sport 1 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-13.png" tvg-name="BT SPORTS HD1"  group-title="SPORTS",BT SPORTS HD1
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/98.ts
-#EXTINF:0, tvg-id="BT Sport 2 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-23.png" tvg-name="BT SPORTS HD2"  group-title="SPORTS",BT SPORTS HD2
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/99.ts
-#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://plextratime.com/Channel/bt-sport-32.png" tvg-name="BT SPORTS HD3"  group-title="SPORTS",BT SPORTS HD3
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/100.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://plextratime.com/Channel/1464372821-skysportmix.jpg" tvg-name="SKY SPORTS MIX HD"  group-title="SPORTS",SKY SPORTS MIX HD
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/88.ts
-#EXTINF:0, tvg-id="Sky Sp NewsHQ" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20News.png" tvg-name="SKY SPORTS NEWS HD"  group-title="SPORTS",SKY SPORTS NEWS HD
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/90.ts
-#EXTINF:0, tvg-id="Sky Sports 1 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%201%20HD.png" tvg-name="UK : SKY SPORTS MAIN EVENT HD*"  group-title="SPORTS",UK : SKY SPORTS MAIN EVENT HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/876.ts
-#EXTINF:0, tvg-id="Sky Sports 5 HD" tvg-logo="http://4u2stream.com/gallery/ss5-2.jpg" tvg-name="UK : SKY SPORTS PREMIER LEAGUE HD*"  group-title="SPORTS",UK : SKY SPORTS PREMIER LEAGUE HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/880.ts
-#EXTINF:0, tvg-id="Sky Sports 2 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%202%20HD.png" tvg-name="UK : SKY SPORTS CRICKET HD*"  group-title="SPORTS",UK : SKY SPORTS CRICKET HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/877.ts
-#EXTINF:0, tvg-id="Sky Spts F1 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20F1%20HD.png" tvg-name="SKY SPORTS F1 HD*"  group-title="SPORTS",SKY SPORTS F1 HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/881.ts
-#EXTINF:0, tvg-id="Sky Sports 3 HD" tvg-logo="http://plextratime.com/Channel/Sky%20Sports%203%20HD.png" tvg-name="UK : SKY SPORTS ACTION HD*"  group-title="SPORTS",UK : SKY SPORTS ACTION HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/878.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://plextratime.com/Channel/1464372821-skysportmix.jpg" tvg-name="SKY SPORTS MIX HD*"  group-title="SPORTS",SKY SPORTS MIX HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/882.ts
-#EXTINF:0, tvg-id="Sky SpN HQ HD" tvg-logo="http://plextratime.com/Channel/Sky%20Spts%20News.png" tvg-name="SKY SPORTS NEWS HD*"  group-title="SPORTS",SKY SPORTS NEWS HD*
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/883.ts
-#EXTINF:0, tvg-id="BT Sport 1 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-13.png" tvg-name="UK : BT SPORTS FHD 1"  group-title="SPORTS",UK : BT SPORTS FHD 1
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34488.ts
-#EXTINF:0, tvg-id="BT Sport 2 HD" tvg-logo="http://plextratime.com/Channel/bt-sport-23.png" tvg-name="UK : BT SPORTS FHD 2"  group-title="SPORTS",UK : BT SPORTS FHD 2
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34489.ts
-#EXTINF:0, tvg-id="BT Sport EurHD" tvg-logo="http://plextratime.com/Channel/bt-sport-32.png" tvg-name="UK : BT SPORTS FHD 3"  group-title="SPORTS",UK : BT SPORTS FHD 3
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/34490.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP : SPORTS ACTIVE 1"  group-title="SPORTS",VIP : SPORTS ACTIVE 1
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/691.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP : SPORTS ACTIVE 2"  group-title="SPORTS",VIP : SPORTS ACTIVE 2
@@ -389,16 +383,6 @@ http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/683.ts
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/682.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP : SPORTS ACTIVE 10"  group-title="SPORTS",VIP : SPORTS ACTIVE 10
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/690.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA"  group-title="SPORTS",BT SPORTS EXTRA
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/109.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 2"  group-title="SPORTS",BT SPORTS EXTRA 2
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/110.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 3"  group-title="SPORTS",BT SPORTS EXTRA 3
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/111.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 4"  group-title="SPORTS",BT SPORTS EXTRA 4
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/112.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT SPORTS EXTRA 5"  group-title="SPORTS",BT SPORTS EXTRA 5
-http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/113.ts
 #EXTINF:0, tvg-id="Sky Action HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Action%20HD.png" tvg-name="SKY CINEMA ACTION HD"  group-title="MOVIES",SKY CINEMA ACTION HD
 http://lightspeed.sytes.net:25461/live/7YlIbit7yK/2HcL0vM3zm/277.ts
 #EXTINF:0, tvg-id="Sky Comedy HD" tvg-logo="http://4u2stream.com/gallery/Sky%20Comedy%20HD.png" tvg-name="SKY MOVIES COMEDY HD"  group-title="MOVIES",SKY MOVIES COMEDY HD
